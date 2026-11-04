@@ -62,7 +62,7 @@ export default function LoginPage() {
         <button className="btn btn-primary btn-block btn-lg" type="submit">
           Đăng nhập
         </button>
-        <p className="muted hint">Tài khoản demo: tên bất kỳ · mật khẩu 123456</p>
+        <p className="muted hint">· mật khẩu 123456</p>
       </form>
     </div>
   )
